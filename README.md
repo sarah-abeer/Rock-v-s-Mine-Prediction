@@ -1,5 +1,6 @@
 # Rock-v-s-Mine-Prediction
-This project aims to develop a machine learning model to classify data points as either originating from a "mine" or a "rock." The classification will help in geological surveys and resource management by providing accurate categorization based on various features.
+<h1>
+This project aims to develop a machine learning model to classify data points as either originating from a "mine" or a "rock." The classification will help in geological surveys and resource management by providing accurate categorization based on various features.</h1>
 <br>
 
 Installation
